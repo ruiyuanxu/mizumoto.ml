@@ -2,6 +2,6 @@
 __Just a Page__
 
 
-## [COC Logs](https://www.mizumoto.ml:8443) 
+## [COC Logs](https://www.mizumoto.ml:10031) 
 
 
