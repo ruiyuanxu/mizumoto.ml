@@ -1,5 +1,5 @@
 # mizumoto.ml
-__A Personal Blog of Mizumoto__
+> __A Personal Blog of Mizumoto__
 
 > __Warning: Contents may be in English/中文/日本語.__
 
@@ -7,7 +7,7 @@ __A Personal Blog of Mizumoto__
 - []()
 - [...]()
 
-Links:
+#### Links:
 - [COC TRPG Logs](https://www.mizumoto.ml:10031) 
 - [Weibo](https://weibo.com/mizumoto/)  `Currently Not In Use`
 - [Twitter](https://twitter.com/M1zumoto)
