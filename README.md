@@ -1,9 +1,9 @@
 # A Personal Blog of Mizumoto
 
-> __Warning: Contents may be in English/ÖĞÎÄ/ÈÕ±¾ÕZ.__
+> __Warning: Contents may be in English/ä¸­æ–‡/æ—¥æœ¬èª.__
 
 #### Recent Articles
-- [C#ÖĞµÄIDisposable½Ó¿Ú(ÖĞÎÄ)](/Blog_CSharp/IDisposable.md)
+- [C#ä¸­çš„IDisposableæ¥å£(ä¸­æ–‡)](/Blog_CSharp/IDisposable.md)
 - [The Basic Framework of LNR-re Core](/LNR-re/Framework.md)
 - ...
 
