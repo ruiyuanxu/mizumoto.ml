@@ -4,7 +4,7 @@
 > __Warning: Contents may be in English/中文/日本語.__
 
 #### Recent Articles
-- [C#中的IDisposable接口(中文)](/Blog_C#/IDisposable.md)
+- [C#中的IDisposable接口(中文)](/Blog_CSharp/IDisposable.md)
 - [The Basic Framework of LNR-re Core](/LNR-re/Framework.md)
 - [...]()
 
