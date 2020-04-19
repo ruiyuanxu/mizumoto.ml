@@ -5,6 +5,7 @@
 #### Recent Articles
 - [C#中的IDisposable接口(中文)](/Blog_CSharp/IDisposable.md)
 - [The Basic Framework of LNR-re Core](/LNR-re/Framework.md)
+- ["Flectere si nequeo superos, Acheronta movebo."](/Itazura/Flectere.md)
 - ...
 
 #### Links:
