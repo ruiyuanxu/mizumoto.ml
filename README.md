@@ -7,6 +7,7 @@
 - [The Basic Framework of LNR-re Core](/LNR-re/Framework.md)
 - ["Flectere si nequeo superos, Acheronta movebo."](/Itazura/Flectere.md)
 - [Research Plan 2020](/ResearchPlan/Plan2020.md)
+- [Note of MIT 18.06 Linear Algebra](/LinearAlgebra/Index.md)
 - ...
 
 #### Links:
