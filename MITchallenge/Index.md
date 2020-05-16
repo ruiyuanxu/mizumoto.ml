@@ -22,7 +22,7 @@ If everything went smoothly ya'll see my notes, progress and exam details in fol
     - [Access Course Video for FREE (youtube)](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
     - [MIT OCW-SC version (2011 fall) Homepage](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
-> Phase 1 starts from May 16th 2020. When any one of these courses gets completed the next phase will begin but the original phase won't go to an end unless all the 4 courses git completed.
+> Phase 1 starts from May 16th 2020. When any one of these courses gets completed the next phase will begin but the original phase won't go to an end unless all the 4 courses were completed.
 
 > This phase is expected to be completed in 4-5 weeks.
 
