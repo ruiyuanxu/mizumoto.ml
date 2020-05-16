@@ -27,3 +27,7 @@ If everything went smoothly ya'll see my notes, progress and exam details in fol
 > This phase is expected to be completed in 2-4 weeks.
 
 </p>
+
+<p contents="Links">
+[Back to Homepage](https://blog.mizumoto.ml)
+</p>
