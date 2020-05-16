@@ -24,7 +24,7 @@ If everything went smoothly ya'll see my notes, progress and exam details in fol
 
 > Phase 1 starts from May 16th 2020. When any one of these courses gets completed the next phase will begin but the original phase won't go to an end unless all the 4 courses git completed.
 
-> This phase is expected to be completed in 2-4 weeks.
+> This phase is expected to be completed in 4-5 weeks.
 
 </p>
 
