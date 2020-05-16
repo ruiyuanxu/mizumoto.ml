@@ -7,7 +7,7 @@ If everything went smoothly ya'll see my notes, progress and exam details in fol
 
 ---
 ### _Phase 1_
-<p>
+
 
 + 18.01 Single Variable Calculus
     - [Access Course Video for FREE (youtube)](https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1)
@@ -26,8 +26,7 @@ If everything went smoothly ya'll see my notes, progress and exam details in fol
 
 > This phase is expected to be completed in 4-5 weeks.
 
-</p>
+<!-- why jekyll cant compile '<p>' correctly?) -->
 
-<p contents="Links">
+<!-- links -->
 [Back to Homepage](https://blog.mizumoto.ml)
-</p>
