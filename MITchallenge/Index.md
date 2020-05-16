@@ -1,5 +1,6 @@
 > Is This UTF-8?
 > 是吗？
+
 # <b>Mizumoto's MIT Challenge</b>
 **Acknowledgement**: the following contents are inspired by [Scott H. Young](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/).
 
@@ -38,7 +39,7 @@ If everything went smoothly ya'll see my notes, progress and exam details in fol
 > This phase is expected to be completed in 4-5 weeks.
 
 <!-- why jekyll cant compile '<p>' correctly?) -->
-<!-- 原来是换行符的问题 傻逼平台标准--> 
+<!-- 原来是换行符的问题 傻逼平台标准-->
 
 <!-- links -->
 [Back to Homepage](https://blog.mizumoto.ml)
