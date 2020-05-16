@@ -8,7 +8,7 @@
 - ["Flectere si nequeo superos, Acheronta movebo."](/Itazura/Flectere.md)
 - [Research Plan 2020](/ResearchPlan/Plan2020.md)
 - [Note of MIT 18.06 Linear Algebra](/LinearAlgebra/Index.md)  `Article Collection | Unfinished`
-- [Framework - MIT Challenge](/MITchallenge/Index.md) `Updating`
+- [Mizumoto's MIT Challenge](/MITchallenge/Index.md) `Updating`
 - ...
 
 #### Links:
