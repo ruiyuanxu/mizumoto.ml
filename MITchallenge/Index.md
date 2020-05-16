@@ -38,7 +38,7 @@ If everything went smoothly ya'll see my notes, progress and exam details in fol
 > This phase is expected to be completed in 4-5 weeks.
 
 <!-- why jekyll cant compile '<p>' correctly?) -->
-<!-- 原来是换行符的问题 傻逼平台标准-->
+<!-- 原来是换行符的问题 傻逼平台标准--> 
 
 <!-- links -->
 [Back to Homepage](https://blog.mizumoto.ml)
